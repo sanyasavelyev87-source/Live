@@ -1,0 +1,24 @@
+{
+  "archives": [
+    {
+      "file": "LivCi_User_Journeys_BPMN_2_0.zip",
+      "bytes": 34788683,
+      "sha256": "8fe6a8819e882be7288e216d7cee12e91231d05675db7ac8c5e8e3b41467792f",
+      "entries": 76,
+      "crcValid": true
+    },
+    {
+      "file": "LivCi_User_Journeys_BPMN_2_0_Light.zip",
+      "bytes": 897751,
+      "sha256": "04c5940927d7eee5a048a38ebf8b32ee0cacd64609e7b58304f395ab8d79ea03",
+      "entries": 28,
+      "crcValid": true
+    }
+  ],
+  "pdfs": {
+    "LivCi_User_Journeys_Specification.pdf": 20,
+    "LivCi_User_Journeys_Diagrams.pdf": 8,
+    "LivCi_User_Journeys_Main.pdf": 2
+  },
+  "pass": true
+}
